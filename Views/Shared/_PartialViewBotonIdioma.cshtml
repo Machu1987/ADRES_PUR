@@ -1,0 +1,26 @@
+﻿@using Microsoft.AspNetCore.Localization;
+@using Microsoft.AspNetCore.Mvc.Localization;
+@using PortalUnicoRecaudo.Servicios;
+
+@inject IViewLocalizer localizer
+
+@{
+    var requestCulture = Context.Features.Get<IRequestCultureFeature>();
+    var urlRetorno = string.IsNullOrEmpty(Context.Request.Path) ? "~/" : $"~{Context.Request.Path.Value}";
+}
+
+
+<form asp-controller="Home" asp-action="CambiarIdioma"
+      asp-route-urlRetorno="@urlRetorno" method="post" 
+      role="form" class="float-right-form">
+
+
+    <input type="hidden" name="cultura" id="cultura" value="@requestCulture.RequestCulture.UICulture.Name" />
+
+   
+    @foreach (var cultura in Constantes.CulturasUISoportadas)
+    {
+        <button class="idioma-icon-barra-superior-govco float-right" onclick="cambiarIdioma('@cultura.Value')">@cultura.Text</button>
+    }
+</form>
+

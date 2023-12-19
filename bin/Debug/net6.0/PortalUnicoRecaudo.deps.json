@@ -1,0 +1,31 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PortalUnicoRecaudo/1.0.0": {
+        "runtime": {
+          "PortalUnicoRecaudo.dll": {}
+        },
+        "resources": {
+          "en/PortalUnicoRecaudo.resources.dll": {
+            "locale": "en"
+          },
+          "es/PortalUnicoRecaudo.resources.dll": {
+            "locale": "es"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PortalUnicoRecaudo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

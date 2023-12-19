@@ -1,0 +1,57 @@
+﻿@{
+    var anio = DateTime.Now.Year;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - PortalUnicoRecaudo</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/PortalUnicoRecaudo.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+      <!-- <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid container">
+                <a class="navbar-brand" href="https://www.gov.co/home/"><img src="~/imagenes/img-govco.svg" /></a>
+            </div>
+          </nav>-->
+        <!-- Campo oculto para mantener el valor del idioma seleccionado -->
+     
+        <nav class="navbar navbar-expand-lg barra-superior-govco" aria-label="Barra superior">
+            <a href="https://www.gov.co/" target="_blank" aria-label="Portal del Estado Colombiano - GOV.CO"></a>     
+            <partial name="_PartialViewBotonIdioma" />
+        </nav>
+        <div class="contenedorImagenesEnlaces container mt-4 mb-4">           
+            <div>
+                <a href="https://www.minsalud.gov.co/">
+                    <img src="~/imagenes/logopotenciavida.png" />
+                </a>                
+            </div>
+            <div>
+                <a href="https://www.adres.gov.co/Paginas/default.aspx">
+                    <img src="~/imagenes/logoadres.svg" />
+                </a>               
+            </div>
+        </div>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">        
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; @anio - Portal Único de Recaudo 
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

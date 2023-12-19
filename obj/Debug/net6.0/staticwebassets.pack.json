@@ -1,0 +1,469 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PortalUnicoRecaudo.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PortalUnicoRecaudo.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\Imagenes\\ImagenRecaudo.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\ImagenRecaudo.jpg"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\Imagenes\\LogoAdres.svg",
+      "PackagePath": "staticwebassets\\Imagenes\\LogoAdres.svg"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\Imagenes\\img-govco.svg",
+      "PackagePath": "staticwebassets\\Imagenes\\img-govco.svg"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\Imagenes\\logoPotenciaVida.png",
+      "PackagePath": "staticwebassets\\Imagenes\\logoPotenciaVida.png"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Montserrat\\Montserrat-Black.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat\\Montserrat-Black.ttf"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Montserrat\\Montserrat-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat\\Montserrat-BlackItalic.ttf"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Montserrat\\Montserrat-Bold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat\\Montserrat-Bold.ttf"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Montserrat\\Montserrat-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat\\Montserrat-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Montserrat\\Montserrat-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat\\Montserrat-ExtraBold.ttf"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Montserrat\\Montserrat-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat\\Montserrat-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Montserrat\\Montserrat-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat\\Montserrat-ExtraLight.ttf"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Montserrat\\Montserrat-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat\\Montserrat-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Montserrat\\Montserrat-Italic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat\\Montserrat-Italic.ttf"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Montserrat\\Montserrat-Light.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat\\Montserrat-Light.ttf"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Montserrat\\Montserrat-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat\\Montserrat-LightItalic.ttf"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Montserrat\\Montserrat-Medium.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat\\Montserrat-Medium.ttf"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Montserrat\\Montserrat-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat\\Montserrat-MediumItalic.ttf"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Montserrat\\Montserrat-Regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat\\Montserrat-Regular.ttf"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Montserrat\\Montserrat-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat\\Montserrat-SemiBold.ttf"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Montserrat\\Montserrat-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat\\Montserrat-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Montserrat\\Montserrat-Thin.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat\\Montserrat-Thin.ttf"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Montserrat\\Montserrat-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat\\Montserrat-ThinItalic.ttf"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Montserrat\\OFL.txt",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat\\OFL.txt"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Work_Sans\\OFL.txt",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Work_Sans\\OFL.txt"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Work_Sans\\README.txt",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Work_Sans\\README.txt"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Work_Sans\\WorkSans-Italic-VariableFont_wght.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Work_Sans\\WorkSans-Italic-VariableFont_wght.ttf"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Work_Sans\\WorkSans-VariableFont_wght.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Work_Sans\\WorkSans-VariableFont_wght.ttf"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Work_Sans\\static\\WorkSans-Black.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Work_Sans\\static\\WorkSans-Black.ttf"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Work_Sans\\static\\WorkSans-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Work_Sans\\static\\WorkSans-BlackItalic.ttf"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Work_Sans\\static\\WorkSans-Bold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Work_Sans\\static\\WorkSans-Bold.ttf"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Work_Sans\\static\\WorkSans-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Work_Sans\\static\\WorkSans-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Work_Sans\\static\\WorkSans-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Work_Sans\\static\\WorkSans-ExtraBold.ttf"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Work_Sans\\static\\WorkSans-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Work_Sans\\static\\WorkSans-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Work_Sans\\static\\WorkSans-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Work_Sans\\static\\WorkSans-ExtraLight.ttf"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Work_Sans\\static\\WorkSans-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Work_Sans\\static\\WorkSans-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Work_Sans\\static\\WorkSans-Italic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Work_Sans\\static\\WorkSans-Italic.ttf"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Work_Sans\\static\\WorkSans-Light.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Work_Sans\\static\\WorkSans-Light.ttf"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Work_Sans\\static\\WorkSans-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Work_Sans\\static\\WorkSans-LightItalic.ttf"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Work_Sans\\static\\WorkSans-Medium.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Work_Sans\\static\\WorkSans-Medium.ttf"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Work_Sans\\static\\WorkSans-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Work_Sans\\static\\WorkSans-MediumItalic.ttf"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Work_Sans\\static\\WorkSans-Regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Work_Sans\\static\\WorkSans-Regular.ttf"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Work_Sans\\static\\WorkSans-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Work_Sans\\static\\WorkSans-SemiBold.ttf"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Work_Sans\\static\\WorkSans-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Work_Sans\\static\\WorkSans-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Work_Sans\\static\\WorkSans-Thin.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Work_Sans\\static\\WorkSans-Thin.ttf"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\fonts\\Work_Sans\\static\\WorkSans-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Work_Sans\\static\\WorkSans-ThinItalic.ttf"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\icons\\fonts\\govco-font-icons.ttf",
+      "PackagePath": "staticwebassets\\assets\\icons\\fonts\\govco-font-icons.ttf"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\img\\Adres Interior.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Adres Interior.jpg"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\img\\fondo-gris-carrusel.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\fondo-gris-carrusel.jpg"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\img\\fondo-gris-carrusel.png",
+      "PackagePath": "staticwebassets\\assets\\img\\fondo-gris-carrusel.png"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\img\\fondo-gris-carrusel1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\fondo-gris-carrusel1.jpg"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\assets\\img\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.svg"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\ADRES\\Proyectos PUR\\CU HU Botones Enlazados\\Proyectos\\AdresBotonesPagosEnlaces\\15-12-2023 proceso 4\\PortalUnicoRecaudo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PortalUnicoRecaudo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.PortalUnicoRecaudo.props",
+      "PackagePath": "build\\PortalUnicoRecaudo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.PortalUnicoRecaudo.props",
+      "PackagePath": "buildMultiTargeting\\PortalUnicoRecaudo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.PortalUnicoRecaudo.props",
+      "PackagePath": "buildTransitive\\PortalUnicoRecaudo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

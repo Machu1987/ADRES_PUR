@@ -1,0 +1,104 @@
+﻿@using Microsoft.AspNetCore.Mvc.Localization;
+@using static PortalUnicoRecaudo.Models.ModelsAppSettings;
+@model List<EnlaceBoton>;
+@inject IViewLocalizer localizer;
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+<div class="content-example-barra ">
+    <div class="barra-accesibilidad-govco">
+        <button id="botoncontraste" class="icon-contraste" onclick="cambiarContexto()">
+            <span id="titlecontraste">Contraste</span>
+        </button>
+        <button id="botondisminuir" class="icon-reducir" onclick="disminuirTamanio('disminuir')">
+            <span id="titledisminuir">Reducir letra</span>
+        </button>
+        <button id="botonaumentar" class="icon-aumentar" onclick="aumentarTamanio('aumentar')">
+            <span id="titleaumentar">Aumentar letra</span>
+        </button>
+    </div>
+</div>
+<!--<div class="text-center mb-5">
+    <h1 class="display-4">Portal Único de Recaudo</h1>
+    
+</div>-->
+
+
+<div id="carouselExampleGovco2" class="carousel slide carousel-fade carrusel-govco" data-bs-ride="carousel">
+    <div class="carousel-inner">
+        <div class="carousel-item active" data-bs-interval="2000">
+                <img src="../../assets/img/fondo-gris-carrusel1.jpg" alt="...">
+            <div class="carousel-caption">
+                <h1>@localizer["TituloPortal"]</h1>
+            </div>
+        </div>
+       <!-- <div class="carousel-item" data-bs-interval="2000">
+            <a href="" title="..." tabindex="-1">
+                <img src="../../assets/img/fondo-gris-carrusel.jpg" alt="...">
+            </a>
+            <div class="carousel-caption">
+                <a href="" title="..." tabindex="-1">
+                    <h5>Lorem ipsum dolor</h5>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                </a>
+            </div>
+        </div>
+        <div class="carousel-item" data-bs-interval="2000">
+            <a href="" title="..." tabindex="-1">
+                <img src="../../assets/img/fondo-gris-carrusel.jpg" alt="...">
+            </a>
+            <div class="carousel-caption">
+                <a href="" title="..." tabindex="-1">
+                    <h5>Lorem ipsum dolor</h5>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                </a>
+            </div>
+        </div>
+        <div class="carousel-item" data-bs-interval="2000">
+            <a href="" title="..." tabindex="-1">
+                <img src="../../assets/img/fondo-gris-carrusel.jpg" alt="...">
+            </a>
+            <div class="carousel-caption">
+                <a href="" title="..." tabindex="-1">
+                    <h5>Lorem ipsum dolor</h5>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                </a>
+            </div>
+         </div>-->
+    </div>
+   <!-- <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleGovco2" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Próxima imagen</span>
+    </button>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleGovco2" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Anterior imagén</span>
+    </button>
+    <div class="control-start-pause">
+        <button class="controls start" type="button">
+            <span>Reproducir</span>
+        </button>
+        <button class="controls pause active" type="button">
+            <span>Pausar</span>
+        </button>
+     </div>-->
+    <!--<div class="contenedorEnlaces">-->
+    <div class="carousel-indicators">
+        <button type="button" class="btn-govco fill-btn-govco" data-url="@Model[0].UrlBoton" style="width: 165px; height: 42px;">@localizer["SoatFonsat"]</button>
+        <br /><br />
+        <button type="button" class="btn-govco fill-btn-govco" data-url="@Model[1].UrlBoton" style="width: 165px; height: 42px;">@localizer["BotonPagoRex"]</button>
+        <br /><br />
+        <button type="button" class="btn-govco fill-btn-govco" data-url="@Model[2].UrlBoton" style="width: 300px; height: 42px;">@localizer["BotonRentasCedidas"]</button>
+        <br /><br />
+    </div>
+    <!--<div class="carousel-indicators">
+        <button type="button" data-bs-target="#carouselExampleGovco2" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#carouselExampleGovco2" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#carouselExampleGovco2" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        <button type="button" data-bs-target="#carouselExampleGovco2" data-bs-slide-to="3" aria-label="Slide 4"></button>
+    </div>-->
+</div>
+
+
+

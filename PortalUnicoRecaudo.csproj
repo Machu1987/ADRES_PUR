@@ -1,0 +1,59 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\assets\fonts\Montserrat\Montserrat-Black.ttf" />
+    <None Include="wwwroot\assets\fonts\Montserrat\Montserrat-BlackItalic.ttf" />
+    <None Include="wwwroot\assets\fonts\Montserrat\Montserrat-Bold.ttf" />
+    <None Include="wwwroot\assets\fonts\Montserrat\Montserrat-BoldItalic.ttf" />
+    <None Include="wwwroot\assets\fonts\Montserrat\Montserrat-ExtraBold.ttf" />
+    <None Include="wwwroot\assets\fonts\Montserrat\Montserrat-ExtraBoldItalic.ttf" />
+    <None Include="wwwroot\assets\fonts\Montserrat\Montserrat-ExtraLight.ttf" />
+    <None Include="wwwroot\assets\fonts\Montserrat\Montserrat-ExtraLightItalic.ttf" />
+    <None Include="wwwroot\assets\fonts\Montserrat\Montserrat-Italic.ttf" />
+    <None Include="wwwroot\assets\fonts\Montserrat\Montserrat-Light.ttf" />
+    <None Include="wwwroot\assets\fonts\Montserrat\Montserrat-LightItalic.ttf" />
+    <None Include="wwwroot\assets\fonts\Montserrat\Montserrat-Medium.ttf" />
+    <None Include="wwwroot\assets\fonts\Montserrat\Montserrat-MediumItalic.ttf" />
+    <None Include="wwwroot\assets\fonts\Montserrat\Montserrat-Regular.ttf" />
+    <None Include="wwwroot\assets\fonts\Montserrat\Montserrat-SemiBold.ttf" />
+    <None Include="wwwroot\assets\fonts\Montserrat\Montserrat-SemiBoldItalic.ttf" />
+    <None Include="wwwroot\assets\fonts\Montserrat\Montserrat-Thin.ttf" />
+    <None Include="wwwroot\assets\fonts\Montserrat\Montserrat-ThinItalic.ttf" />
+    <None Include="wwwroot\assets\fonts\Montserrat\OFL.txt" />
+    <None Include="wwwroot\assets\fonts\Work_Sans\OFL.txt" />
+    <None Include="wwwroot\assets\fonts\Work_Sans\README.txt" />
+    <None Include="wwwroot\assets\fonts\Work_Sans\static\WorkSans-Black.ttf" />
+    <None Include="wwwroot\assets\fonts\Work_Sans\static\WorkSans-BlackItalic.ttf" />
+    <None Include="wwwroot\assets\fonts\Work_Sans\static\WorkSans-Bold.ttf" />
+    <None Include="wwwroot\assets\fonts\Work_Sans\static\WorkSans-BoldItalic.ttf" />
+    <None Include="wwwroot\assets\fonts\Work_Sans\static\WorkSans-ExtraBold.ttf" />
+    <None Include="wwwroot\assets\fonts\Work_Sans\static\WorkSans-ExtraBoldItalic.ttf" />
+    <None Include="wwwroot\assets\fonts\Work_Sans\static\WorkSans-ExtraLight.ttf" />
+    <None Include="wwwroot\assets\fonts\Work_Sans\static\WorkSans-ExtraLightItalic.ttf" />
+    <None Include="wwwroot\assets\fonts\Work_Sans\static\WorkSans-Italic.ttf" />
+    <None Include="wwwroot\assets\fonts\Work_Sans\static\WorkSans-Light.ttf" />
+    <None Include="wwwroot\assets\fonts\Work_Sans\static\WorkSans-LightItalic.ttf" />
+    <None Include="wwwroot\assets\fonts\Work_Sans\static\WorkSans-Medium.ttf" />
+    <None Include="wwwroot\assets\fonts\Work_Sans\static\WorkSans-MediumItalic.ttf" />
+    <None Include="wwwroot\assets\fonts\Work_Sans\static\WorkSans-Regular.ttf" />
+    <None Include="wwwroot\assets\fonts\Work_Sans\static\WorkSans-SemiBold.ttf" />
+    <None Include="wwwroot\assets\fonts\Work_Sans\static\WorkSans-SemiBoldItalic.ttf" />
+    <None Include="wwwroot\assets\fonts\Work_Sans\static\WorkSans-Thin.ttf" />
+    <None Include="wwwroot\assets\fonts\Work_Sans\static\WorkSans-ThinItalic.ttf" />
+    <None Include="wwwroot\assets\fonts\Work_Sans\WorkSans-Italic-VariableFont_wght.ttf" />
+    <None Include="wwwroot\assets\fonts\Work_Sans\WorkSans-VariableFont_wght.ttf" />
+    <None Include="wwwroot\assets\icons\fonts\govco-font-icons.ttf" />
+    <None Include="wwwroot\assets\img\Adres Interior.jpg" />
+    <None Include="wwwroot\assets\img\fondo-gris-carrusel.jpg" />
+    <None Include="wwwroot\assets\img\fondo-gris-carrusel.png" />
+    <None Include="wwwroot\assets\img\fondo-gris-carrusel1.jpg" />
+    <None Include="wwwroot\assets\img\logo.svg" />
+  </ItemGroup>
+
+</Project>

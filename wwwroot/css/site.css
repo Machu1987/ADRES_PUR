@@ -1,0 +1,92 @@
+:root {
+    --font-primary: 'Montserrat', Arial, sans-serif;
+    --font-size-normal: 16px;
+    --font-size-large: 24px;
+    --a-decoration-none: none;
+    --font-color-Adres: #273656;
+
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --background-color: #000;
+        --text-color: #fff;
+    }
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+    font-family: var(--font-primary);
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.barra-superior-govco .idioma-icon-barra-superior-govco {
+    height: 1.5rem;
+    width: 1.5rem;
+    border-radius: 0.313rem;
+    background-color: #FFFFFF;
+    cursor: pointer;
+    padding: 0;
+    border: 0.125rem solid #FFFFFF;
+    font-size: 10px;
+    right: 5.375rem;
+}
+
+    .barra-superior-govco .idioma-icon-barra-superior-govco:hover {
+        background-color: #004884;
+    }
+
+    .barra-superior-govco .idioma-icon-barra-superior-govco:focus {
+        outline: max(0.125rem, 0.15em) solid #FFFFFF;
+        outline-offset: max(0.188rem, 0.15em);
+    }
+
+    .barra-superior-govco .idioma-icon-barra-superior-govco::before {
+        font-family: "govco-font";       
+        color: #3366CC;
+        font-size: 14px;
+    }
+
+    .barra-superior-govco .idioma-icon-barra-superior-govco:hover::before {
+        color: #FFFFFF;
+    }
+
+.float-right-form {
+    position: absolute;
+    right: 5.375rem;
+}
+
+@media (max-width: 991px) {
+    .barra-superior-govco {
+        justify-content: center;
+        padding: 0;
+    }
+
+        .barra-superior-govco .idioma-icon-barra-superior-govco {
+            right: 1rem;
+        }
+}
+
+.light-theme {
+    background-color: #fff;
+    color: #000;
+    /* otros estilos para el tema claro */
+}
+
+/* Estilo para el tema oscuro */
+.dark-theme {
+    background-color: #000000 !important;
+    color: #ffffff !important;
+    /* otros estilos para el tema oscuro */
+}
+

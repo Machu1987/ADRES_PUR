@@ -1,0 +1,102 @@
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\PortalUnicoRecaudo\bin\Debug\net6.0\appsettings.Development.json
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\PortalUnicoRecaudo\bin\Debug\net6.0\appsettings.json
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\PortalUnicoRecaudo\bin\Debug\net6.0\PortalUnicoRecaudo.staticwebassets.runtime.json
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\PortalUnicoRecaudo\bin\Debug\net6.0\PortalUnicoRecaudo.exe
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\PortalUnicoRecaudo\bin\Debug\net6.0\PortalUnicoRecaudo.deps.json
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\PortalUnicoRecaudo\bin\Debug\net6.0\PortalUnicoRecaudo.runtimeconfig.json
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\PortalUnicoRecaudo\bin\Debug\net6.0\PortalUnicoRecaudo.dll
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\PortalUnicoRecaudo\bin\Debug\net6.0\PortalUnicoRecaudo.pdb
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\PortalUnicoRecaudo\obj\Debug\net6.0\PortalUnicoRecaudo.csproj.AssemblyReference.cache
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\PortalUnicoRecaudo\obj\Debug\net6.0\PortalUnicoRecaudo.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\PortalUnicoRecaudo\obj\Debug\net6.0\PortalUnicoRecaudo.AssemblyInfoInputs.cache
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\PortalUnicoRecaudo\obj\Debug\net6.0\PortalUnicoRecaudo.AssemblyInfo.cs
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\PortalUnicoRecaudo\obj\Debug\net6.0\PortalUnicoRecaudo.csproj.CoreCompileInputs.cache
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\PortalUnicoRecaudo\obj\Debug\net6.0\PortalUnicoRecaudo.MvcApplicationPartsAssemblyInfo.cache
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\PortalUnicoRecaudo\obj\Debug\net6.0\PortalUnicoRecaudo.RazorAssemblyInfo.cache
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\PortalUnicoRecaudo\obj\Debug\net6.0\PortalUnicoRecaudo.RazorAssemblyInfo.cs
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\PortalUnicoRecaudo\obj\Debug\net6.0\staticwebassets\msbuild.PortalUnicoRecaudo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\PortalUnicoRecaudo\obj\Debug\net6.0\staticwebassets\msbuild.build.PortalUnicoRecaudo.props
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\PortalUnicoRecaudo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PortalUnicoRecaudo.props
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\PortalUnicoRecaudo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PortalUnicoRecaudo.props
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\PortalUnicoRecaudo\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\PortalUnicoRecaudo\obj\Debug\net6.0\staticwebassets.build.json
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\PortalUnicoRecaudo\obj\Debug\net6.0\staticwebassets.development.json
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\PortalUnicoRecaudo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\PortalUnicoRecaudo\obj\Debug\net6.0\scopedcss\bundle\PortalUnicoRecaudo.styles.css
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\PortalUnicoRecaudo\obj\Debug\net6.0\scopedcss\projectbundle\PortalUnicoRecaudo.bundle.scp.css
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\PortalUnicoRecaudo\obj\Debug\net6.0\PortalUnicoRecaudo.dll
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\PortalUnicoRecaudo\obj\Debug\net6.0\refint\PortalUnicoRecaudo.dll
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\PortalUnicoRecaudo\obj\Debug\net6.0\PortalUnicoRecaudo.pdb
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\PortalUnicoRecaudo\obj\Debug\net6.0\PortalUnicoRecaudo.genruntimeconfig.cache
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\PortalUnicoRecaudo\obj\Debug\net6.0\ref\PortalUnicoRecaudo.dll
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\PortalUnicoRecaudo\obj\Debug\net6.0\scopedcss\Views\Home\Index.cshtml.rz.scp.css
+D:\RM_design\clientes\cesar mancipe\PortalUnicoRecaudo\PortalUnicoRecaudo\bin\Debug\net6.0\appsettings.Development.json
+D:\RM_design\clientes\cesar mancipe\PortalUnicoRecaudo\PortalUnicoRecaudo\bin\Debug\net6.0\appsettings.json
+D:\RM_design\clientes\cesar mancipe\PortalUnicoRecaudo\PortalUnicoRecaudo\bin\Debug\net6.0\PortalUnicoRecaudo.staticwebassets.runtime.json
+D:\RM_design\clientes\cesar mancipe\PortalUnicoRecaudo\PortalUnicoRecaudo\bin\Debug\net6.0\PortalUnicoRecaudo.exe
+D:\RM_design\clientes\cesar mancipe\PortalUnicoRecaudo\PortalUnicoRecaudo\bin\Debug\net6.0\PortalUnicoRecaudo.deps.json
+D:\RM_design\clientes\cesar mancipe\PortalUnicoRecaudo\PortalUnicoRecaudo\bin\Debug\net6.0\PortalUnicoRecaudo.runtimeconfig.json
+D:\RM_design\clientes\cesar mancipe\PortalUnicoRecaudo\PortalUnicoRecaudo\bin\Debug\net6.0\PortalUnicoRecaudo.dll
+D:\RM_design\clientes\cesar mancipe\PortalUnicoRecaudo\PortalUnicoRecaudo\bin\Debug\net6.0\PortalUnicoRecaudo.pdb
+D:\RM_design\clientes\cesar mancipe\PortalUnicoRecaudo\PortalUnicoRecaudo\obj\Debug\net6.0\PortalUnicoRecaudo.GeneratedMSBuildEditorConfig.editorconfig
+D:\RM_design\clientes\cesar mancipe\PortalUnicoRecaudo\PortalUnicoRecaudo\obj\Debug\net6.0\PortalUnicoRecaudo.AssemblyInfoInputs.cache
+D:\RM_design\clientes\cesar mancipe\PortalUnicoRecaudo\PortalUnicoRecaudo\obj\Debug\net6.0\PortalUnicoRecaudo.AssemblyInfo.cs
+D:\RM_design\clientes\cesar mancipe\PortalUnicoRecaudo\PortalUnicoRecaudo\obj\Debug\net6.0\PortalUnicoRecaudo.csproj.CoreCompileInputs.cache
+D:\RM_design\clientes\cesar mancipe\PortalUnicoRecaudo\PortalUnicoRecaudo\obj\Debug\net6.0\PortalUnicoRecaudo.MvcApplicationPartsAssemblyInfo.cache
+D:\RM_design\clientes\cesar mancipe\PortalUnicoRecaudo\PortalUnicoRecaudo\obj\Debug\net6.0\PortalUnicoRecaudo.RazorAssemblyInfo.cache
+D:\RM_design\clientes\cesar mancipe\PortalUnicoRecaudo\PortalUnicoRecaudo\obj\Debug\net6.0\PortalUnicoRecaudo.RazorAssemblyInfo.cs
+D:\RM_design\clientes\cesar mancipe\PortalUnicoRecaudo\PortalUnicoRecaudo\obj\Debug\net6.0\staticwebassets.build.json
+D:\RM_design\clientes\cesar mancipe\PortalUnicoRecaudo\PortalUnicoRecaudo\obj\Debug\net6.0\staticwebassets.development.json
+D:\RM_design\clientes\cesar mancipe\PortalUnicoRecaudo\PortalUnicoRecaudo\obj\Debug\net6.0\staticwebassets\msbuild.PortalUnicoRecaudo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\RM_design\clientes\cesar mancipe\PortalUnicoRecaudo\PortalUnicoRecaudo\obj\Debug\net6.0\staticwebassets\msbuild.build.PortalUnicoRecaudo.props
+D:\RM_design\clientes\cesar mancipe\PortalUnicoRecaudo\PortalUnicoRecaudo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PortalUnicoRecaudo.props
+D:\RM_design\clientes\cesar mancipe\PortalUnicoRecaudo\PortalUnicoRecaudo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PortalUnicoRecaudo.props
+D:\RM_design\clientes\cesar mancipe\PortalUnicoRecaudo\PortalUnicoRecaudo\obj\Debug\net6.0\staticwebassets.pack.json
+D:\RM_design\clientes\cesar mancipe\PortalUnicoRecaudo\PortalUnicoRecaudo\obj\Debug\net6.0\scopedcss\Views\Home\Index.cshtml.rz.scp.css
+D:\RM_design\clientes\cesar mancipe\PortalUnicoRecaudo\PortalUnicoRecaudo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\RM_design\clientes\cesar mancipe\PortalUnicoRecaudo\PortalUnicoRecaudo\obj\Debug\net6.0\scopedcss\bundle\PortalUnicoRecaudo.styles.css
+D:\RM_design\clientes\cesar mancipe\PortalUnicoRecaudo\PortalUnicoRecaudo\obj\Debug\net6.0\scopedcss\projectbundle\PortalUnicoRecaudo.bundle.scp.css
+D:\RM_design\clientes\cesar mancipe\PortalUnicoRecaudo\PortalUnicoRecaudo\obj\Debug\net6.0\PortalUnicoRecaudo.dll
+D:\RM_design\clientes\cesar mancipe\PortalUnicoRecaudo\PortalUnicoRecaudo\obj\Debug\net6.0\refint\PortalUnicoRecaudo.dll
+D:\RM_design\clientes\cesar mancipe\PortalUnicoRecaudo\PortalUnicoRecaudo\obj\Debug\net6.0\PortalUnicoRecaudo.pdb
+D:\RM_design\clientes\cesar mancipe\PortalUnicoRecaudo\PortalUnicoRecaudo\obj\Debug\net6.0\PortalUnicoRecaudo.genruntimeconfig.cache
+D:\RM_design\clientes\cesar mancipe\PortalUnicoRecaudo\PortalUnicoRecaudo\obj\Debug\net6.0\ref\PortalUnicoRecaudo.dll
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\15-12-2023 proceso 4\PortalUnicoRecaudo\bin\Debug\net6.0\appsettings.Development.json
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\15-12-2023 proceso 4\PortalUnicoRecaudo\bin\Debug\net6.0\appsettings.json
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\15-12-2023 proceso 4\PortalUnicoRecaudo\bin\Debug\net6.0\PortalUnicoRecaudo.staticwebassets.runtime.json
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\15-12-2023 proceso 4\PortalUnicoRecaudo\bin\Debug\net6.0\PortalUnicoRecaudo.exe
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\15-12-2023 proceso 4\PortalUnicoRecaudo\bin\Debug\net6.0\PortalUnicoRecaudo.deps.json
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\15-12-2023 proceso 4\PortalUnicoRecaudo\bin\Debug\net6.0\PortalUnicoRecaudo.runtimeconfig.json
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\15-12-2023 proceso 4\PortalUnicoRecaudo\bin\Debug\net6.0\PortalUnicoRecaudo.dll
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\15-12-2023 proceso 4\PortalUnicoRecaudo\bin\Debug\net6.0\PortalUnicoRecaudo.pdb
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\15-12-2023 proceso 4\PortalUnicoRecaudo\obj\Debug\net6.0\PortalUnicoRecaudo.csproj.AssemblyReference.cache
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\15-12-2023 proceso 4\PortalUnicoRecaudo\obj\Debug\net6.0\PortalUnicoRecaudo.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\15-12-2023 proceso 4\PortalUnicoRecaudo\obj\Debug\net6.0\PortalUnicoRecaudo.AssemblyInfoInputs.cache
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\15-12-2023 proceso 4\PortalUnicoRecaudo\obj\Debug\net6.0\PortalUnicoRecaudo.AssemblyInfo.cs
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\15-12-2023 proceso 4\PortalUnicoRecaudo\obj\Debug\net6.0\PortalUnicoRecaudo.csproj.CoreCompileInputs.cache
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\15-12-2023 proceso 4\PortalUnicoRecaudo\obj\Debug\net6.0\PortalUnicoRecaudo.MvcApplicationPartsAssemblyInfo.cache
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\15-12-2023 proceso 4\PortalUnicoRecaudo\obj\Debug\net6.0\PortalUnicoRecaudo.RazorAssemblyInfo.cache
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\15-12-2023 proceso 4\PortalUnicoRecaudo\obj\Debug\net6.0\PortalUnicoRecaudo.RazorAssemblyInfo.cs
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\15-12-2023 proceso 4\PortalUnicoRecaudo\obj\Debug\net6.0\staticwebassets\msbuild.PortalUnicoRecaudo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\15-12-2023 proceso 4\PortalUnicoRecaudo\obj\Debug\net6.0\staticwebassets\msbuild.build.PortalUnicoRecaudo.props
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\15-12-2023 proceso 4\PortalUnicoRecaudo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PortalUnicoRecaudo.props
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\15-12-2023 proceso 4\PortalUnicoRecaudo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PortalUnicoRecaudo.props
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\15-12-2023 proceso 4\PortalUnicoRecaudo\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\15-12-2023 proceso 4\PortalUnicoRecaudo\obj\Debug\net6.0\staticwebassets.build.json
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\15-12-2023 proceso 4\PortalUnicoRecaudo\obj\Debug\net6.0\staticwebassets.development.json
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\15-12-2023 proceso 4\PortalUnicoRecaudo\obj\Debug\net6.0\scopedcss\Views\Home\Index.cshtml.rz.scp.css
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\15-12-2023 proceso 4\PortalUnicoRecaudo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\15-12-2023 proceso 4\PortalUnicoRecaudo\obj\Debug\net6.0\scopedcss\bundle\PortalUnicoRecaudo.styles.css
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\15-12-2023 proceso 4\PortalUnicoRecaudo\obj\Debug\net6.0\scopedcss\projectbundle\PortalUnicoRecaudo.bundle.scp.css
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\15-12-2023 proceso 4\PortalUnicoRecaudo\obj\Debug\net6.0\PortalUnicoRecaudo.dll
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\15-12-2023 proceso 4\PortalUnicoRecaudo\obj\Debug\net6.0\refint\PortalUnicoRecaudo.dll
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\15-12-2023 proceso 4\PortalUnicoRecaudo\obj\Debug\net6.0\PortalUnicoRecaudo.pdb
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\15-12-2023 proceso 4\PortalUnicoRecaudo\obj\Debug\net6.0\PortalUnicoRecaudo.genruntimeconfig.cache
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\15-12-2023 proceso 4\PortalUnicoRecaudo\obj\Debug\net6.0\ref\PortalUnicoRecaudo.dll
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\15-12-2023 proceso 4\PortalUnicoRecaudo\bin\Debug\net6.0\en\PortalUnicoRecaudo.resources.dll
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\15-12-2023 proceso 4\PortalUnicoRecaudo\obj\Debug\net6.0\PortalUnicoRecaudo.csproj.GenerateResource.cache
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\15-12-2023 proceso 4\PortalUnicoRecaudo\obj\Debug\net6.0\en\PortalUnicoRecaudo.resources.dll
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\15-12-2023 proceso 4\PortalUnicoRecaudo\obj\Debug\net6.0\PortalUnicoRecaudo.Recursos.Views.Home.Index.en.resources
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\15-12-2023 proceso 4\PortalUnicoRecaudo\bin\Debug\net6.0\es\PortalUnicoRecaudo.resources.dll
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\15-12-2023 proceso 4\PortalUnicoRecaudo\obj\Debug\net6.0\PortalUnicoRecaudo.Recursos.Views.Home.Index.es.resources
+D:\ADRES\Proyectos PUR\CU HU Botones Enlazados\Proyectos\AdresBotonesPagosEnlaces\15-12-2023 proceso 4\PortalUnicoRecaudo\obj\Debug\net6.0\es\PortalUnicoRecaudo.resources.dll
